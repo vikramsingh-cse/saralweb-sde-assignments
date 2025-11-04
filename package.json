@@ -1,0 +1,11 @@
+{
+  "name": "saralweb-sde-assignment",
+  "version": "1.0.0",
+  "description": "Saralweb SDE coding challenge - Merge discontinuous time ranges",
+  "main": "my-module.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Vikram Singh Rajput",
+  "license": "MIT"
+}
